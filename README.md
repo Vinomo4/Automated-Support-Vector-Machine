@@ -57,9 +57,9 @@ The files contained on this repository are:
 
 * [`Primal`](./SVM_Primal.mod) and [`Dual`](./SVM_Dual.mod) models of the SVM.
 * Diabetes [`training`](./diabetes_train.dat) and [`test`](./diabetes_test.dat) datasets. (*Real dataset*)
-* [Automatic Python interface](./automatic.py).
-* [Gensvmdat](./gensvmdat)as one of the methods for random points generation.
-* An extensive [report](./Report) about the development and conclusions of this project. (*Language: Catalan*)
+* [`Automatic Python interface`](./automatic.py).
+* [`Gensvmdat`](./gensvmdat) as one of the methods for random points generation.
+* An extensive [`report`](./Report.pdf) about the development and conclusions of this project. (*Language: Catalan*)
 
 *Note: The rest of the files in the master branch are auxiliary or license related*
 
