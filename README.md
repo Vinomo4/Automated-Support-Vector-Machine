@@ -53,7 +53,7 @@ Also, the user must change in the [automatic.py](./automatic.py) file the *ampl_
 
 ## Architecture
 
-The files contained on this repository are:
+The files contained in this repository are:
 
 * [`Primal`](./SVM_Primal.mod) and [`Dual`](./SVM_Dual.mod) models of the SVM.
 * Diabetes [`training`](./diabetes_train.dat) and [`test`](./diabetes_test.dat) datasets. (*Real dataset*)
