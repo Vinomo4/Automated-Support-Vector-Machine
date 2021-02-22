@@ -68,7 +68,7 @@ The files contained in this repository are:
 This project was developed by:
 | [![Vinomo4](https://avatars2.githubusercontent.com/u/49389601?s=60&v=4)](https://github.com/Vinomo4) | 
 | --- | 
-| [Victor Novelle Moriano](https://github.com/Vinomo4) | 
+| [Víctor Novelle Moriano](https://github.com/Vinomo4) | 
 
 
 Student of Data Science and Engineering at [UPC](https://www.upc.edu/ca).
